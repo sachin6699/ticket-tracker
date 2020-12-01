@@ -1,0 +1,15 @@
+.app {
+    width: 300px;
+    height: 400px;
+    // margin: 10px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 15px;
+    padding: 20px;
+    font-size: 1.0rem;
+
+    .card p {
+        padding: 10px;
+        color: blue;
+    }   
+}
